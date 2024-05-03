@@ -1,0 +1,89 @@
+/*#main-image{
+    float:right;
+    height: 250px;
+    width: 500px;
+    justify-content: left;
+
+}*/
+
+body{
+height: fit-content;
+width: fit-content;
+font-family: 'Times New Roman', Times, serif;
+margin-left: 5%;
+display: flexbox;
+}
+h1{
+text-transform: uppercase;
+    margin-top: 3%;
+    text-align: justify;
+align-items: center;
+justify-content: center;
+font-weight: bolder;
+font-size: 40px;
+
+}
+
+h4{
+text-align: justify;
+align-items: center;
+justify-content: center;
+font-weight: 400;
+font-size: 20px;
+text-transform:capitalize;
+
+}
+
+button{
+height: 50px;
+width: 200px;
+gap: 5px;
+text-align: center;
+align-items: center;
+justify-content: space-between;
+background: transparent;
+border: 2px solid white;
+background-color: red;
+font-weight: bolder;
+font-size: medium;
+}
+
+#third-btn{
+height: 50px;
+width: 400px;
+margin-top: 2%;
+}
+
+#Name, #Email{
+    background-color: transparent;
+    border: transparent;
+    border-bottom: 2px solid black;
+    height: 50px;
+    width: 400px;
+    margin-top: 2%;
+    font-size: larger;
+    color: black;
+text-transform: bolder;
+
+}
+#text-area{
+
+width: 400px;
+margin-top: 3%;
+border: 2px solid black;
+font-size: larger;
+color: black;
+}
+#main-image{
+   
+float: right;
+width: 450px;
+height: 500px;
+    margin-top: -20%;
+    margin-right: 5%
+}
+
+
+
+
+
